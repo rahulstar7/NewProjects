@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.graphql.security.GraphQlWebFluxSecurityAutoConfiguration"/>
+    <fullyQualifiedTypeName name="com.codewithdurgesh.blog.repositories.PostRepo"/>
+    <fullyQualifiedTypeName name="com.codewithdurgesh.blog.repositories.UserRepo"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.Test"/>
+</qualifiedTypeNameHistroy>
